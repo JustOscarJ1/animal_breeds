@@ -8,3 +8,4 @@ This repository aims to scrape and catalog as many sets of breeds of animals as 
 - duck
 - horse/pony
 - rabbit
+- sheep
