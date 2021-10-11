@@ -10,3 +10,4 @@ This repository aims to scrape and catalog as many sets of breeds of animals as 
 - rabbit
 - sheep
 - fish
+- cat
